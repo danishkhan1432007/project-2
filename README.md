@@ -1,4 +1,4 @@
 # project-2
-This my first project
+This is my first project
 <br>
 Author-Danish khan
